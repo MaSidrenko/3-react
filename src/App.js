@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This pages upload to github.com with gitbash
+          This pages upload to github.com with Git Bash
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          github.com/MaSidrenko
+          GitHub.com/MaSidrenko
         </a>
       </header>
     </div>
