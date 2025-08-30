@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This pages upload to github.com with Git Bash
+          This page upload to <a className='App-link' href='https://github.com' target='_blank' rel='noopener noreferrer'>GitHub.com</a> with Git Bash
         </p>
         <a
           className="App-link"
